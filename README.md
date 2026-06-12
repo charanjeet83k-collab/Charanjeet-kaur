@@ -5,7 +5,11 @@
 Turning raw data into meaningful insights and interactive dashboards 🚀
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;SQL+Developer;Python+Programmer;Power+BI+Dashboard+Creator;Excel+Data+Analyst;Data+Analytics+Enthusiast;Business+Intelligence+Learner" />
+</p>
 
+---
 🌸 About Me
 
 ✨ Welcome to my GitHub profile!
